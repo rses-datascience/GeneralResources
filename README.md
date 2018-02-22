@@ -1,7 +1,4 @@
----
-title: GeneralResources
-description: RSES Data Science General Resources
----
+# RSES Data Science General Resources
 
 This repository contains codes and general resources aggregated by the Data Science Research Theme members.
 
