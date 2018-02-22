@@ -2,15 +2,15 @@
 
 This repository contains codes and general resources aggregated by the Data Science Research Theme members.
 
-# Notebooks
+## Notebooks
 
 This folder contains Jupyter Notebooks highlighting various general examples of codes in use at RSES.
 
-# Talks
+## Talks
 
 This folder contains PDF of talks regarding Data Science, Data Management, and Computing Resources.\
 
-# License
+## License
 
 PDF are under the CC BY license, see this repo LICENSE file.
 
