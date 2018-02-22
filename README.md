@@ -11,7 +11,11 @@ This folder contains Jupyter Notebooks highlighting various general examples of 
 
 # Talks
 
-This folder contains PDF of talks regarding Data Science, Data Management, and Computing Resources.
+This folder contains PDF of talks regarding Data Science, Data Management, and Computing Resources.\
+
+# License
+
+PDF are under the CC BY license, see this repo LICENSE file.
 
 Updated 22/02/2018
 
