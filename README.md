@@ -1,2 +1,18 @@
-# GeneralResources
-Codes and general resources aggregated by the Data Science Research Theme members
+---
+title: GeneralResources
+description: RSES Data Science General Resources
+---
+
+This repository contains codes and general resources aggregated by the Data Science Research Theme members.
+
+# Notebooks
+
+This folder contains Jupyter Notebooks highlighting various general examples of codes in use at RSES.
+
+# Talks
+
+This folder contains PDF of talks regarding Data Science, Data Management, and Computing Resources.
+
+Updated 22/02/2018
+
+
